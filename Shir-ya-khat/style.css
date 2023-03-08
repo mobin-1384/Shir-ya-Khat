@@ -109,6 +109,9 @@ body {
     .game-1 {
         width: 60%;
     }
+    #game1-score {
+        font-size: 1.3rem;
+    }
 
 }
 
